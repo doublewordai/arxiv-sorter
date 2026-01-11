@@ -2,6 +2,7 @@
 name = "arxiv-sorter"
 version = "0.1.0"
 description = "Rank arXiv papers by relevance using parallel LLM merge-sort"
+license = "MIT"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
